@@ -3,71 +3,52 @@ layout: post
 title: One Minute Block Time
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Do you remember the feeling when you got your first paycheck?
 
-**Here is some bold text**
+That feeling of having *your* money.
 
-## Here is a secondary heading
+The feeling of freedom. The freedom to buy whatever you want.
 
-Here's a useless table:
+It's a similar feeling to spending a $20 bill.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+There's no one to stop you from spending it.
 
+Cash is great but these days most of our money is digital.
 
-How about a yummy crepe?
+When you buy something online, there's no similar experience to handing someone a $20 bill.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+Since it's impossible to shove bits of paper through your internet router, you need corporations like banks and credit card companies to make payments for you.
 
-It can also be centered!
+You know them, they know the merchant, and they facilitate the transaction.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+However somethings fundamentally different from spending that $20 bill.
 
-Here's a code chunk:
+When you buy something online, you need to ask Mastercard's permission.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+Online, you're back to being 12 asking your parents permission to buy that chocolate bar.
 
-And here is the same code with syntax highlighting:
+"Visa hasn’t stopped me from using Amazon, what's the big deal?"
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+The issue isn't if they've done it, it's that they can.
 
-And here is the same code yet again but with line numbers:
+Do you want to be in a position where you have to ask someone to spend your own money?
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+Is the $20 bill experience even possible online?
 
-## Boxes
-You can add notification, warning and error boxes like this:
+Yes, with blockchain!
 
-### Notification
+There's no company to say no.
 
-{: .box-note}
-**Note:** This is a notification box.
+It's more like the internet, an open protocol.
 
-### Warning
+It's like using a 2-way radio and chatting on channel 11. If you're on the right frequency, no one can stop you from talking.
 
-{: .box-warning}
-**Warning:** This is a warning box.
+The internet is a set of instructions for computers to send information to each other.
 
-### Error
+A Blockchain is a set of instructions for computers to send money to each other.
 
-{: .box-error}
-**Error:** This is an error box.
+Sending money online without needing a company is a fundamental technological breakthrough!
+
+It’s your money, online.
+
+Do you think the financial infrastructure of the future should look more like the internet, or like Facebook?
