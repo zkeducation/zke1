@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "post.title"
+title: "Why do people go crazy for Bitcoin?"
 ---
 I'm sure you've noticed it. An almost cult-like following for cryptocurrencies that I'm sure is perplexing.
 
