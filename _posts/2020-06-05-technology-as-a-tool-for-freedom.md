@@ -1,7 +1,8 @@
 ---
 layout: post
 Title: Technology as a tool for freedom
----I was taking a break from writing these because with everything going on, it honestly seems so unimportant. 
+---
+I was taking a break from writing these because with everything going on, it honestly seems so unimportant. 
 
 I'm a guy who thinks blockchain is incredibly valuable but it's nothing compared to the tragedy of people being unjustly taken before their time.
 
