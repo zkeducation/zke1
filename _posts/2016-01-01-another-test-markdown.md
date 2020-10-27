@@ -49,4 +49,4 @@ With blockchain everything is in one place so moving things around is really fas
 
 Imagine a giant global bank that has no owner and anyone can use. That's blockchain.
 
-(Anyone can create an Ethereum account in 5 seconds. Try it yourself here: xdai.io)
+_(Anyone can create an Ethereum account in 5 seconds. Try it yourself here: xdai.io)_
