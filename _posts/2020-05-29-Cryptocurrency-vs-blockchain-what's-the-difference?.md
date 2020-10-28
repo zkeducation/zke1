@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "post.title"
+title: "Cryptocurrency vs blockchain - what's the difference?"
 ---
 
 A cryptocurrency is money that is kept track of on a blockchain.
